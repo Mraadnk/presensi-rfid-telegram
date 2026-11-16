@@ -1,0 +1,17 @@
+# Database / konfigurasi rahasia
+koneksi.php
+config.php
+.env
+
+# Log
+log.txt
+
+# XAMPP
+*.log
+
+# Editor
+.vscode/
+
+# Sistem operasi
+Thumbs.db
+.DS_Store
